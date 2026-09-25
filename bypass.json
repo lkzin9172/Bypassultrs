@@ -15,7 +15,7 @@
       "bypass_folder": "/Android/data/com.dts.freefireth/bypass_data/"
     },
     "api_connection": {
-      "url": "COLOQUE_AQUI_O_LINK_DA_SUA_API",
+      "url": "https://api-avan-ada.onrender.com",
       "secure_mode": true
     }
   }
