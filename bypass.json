@@ -1,0 +1,22 @@
+{
+  "bypass_config": {
+    "version": "4.0.1",
+    "status": "active",
+    "protection": {
+      "anti_blacklist": true,
+      "anti_ban": true,
+      "anti_kick": true,
+      "anti_report": true,
+      "movement_delay": 25,
+      "anti_cheat_shield": true
+    },
+    "paths": {
+      "game_data": "/Android/data/com.dts.freefireth/",
+      "bypass_folder": "/Android/data/com.dts.freefireth/bypass_data/"
+    },
+    "api_connection": {
+      "url": "https://SEU-SITE-API.com/v1/auth",
+      "secure_mode": true
+    }
+  }
+}
